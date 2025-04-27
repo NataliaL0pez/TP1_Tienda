@@ -1,0 +1,1 @@
+1. Acomodé la estructura del HTML, es decir, puse todo dentro del <body>, nada debe ir en <head> salvo enlaces a CSS/JS, title, meta y similares.
